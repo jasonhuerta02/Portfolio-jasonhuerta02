@@ -6,7 +6,7 @@ Welcome to my cybersecurity portfolio! This repository showcases a selection of 
 
 ## Projects
 
-### <a href="https://github.com/jasonhuerta02/Active-Directory-Lab/tree/main">Active Directory and SIEM Project</a>
+### <a href="https://github.com/jasonhuerta02/Active-Directory-Lab/tree/main">Active Directory and SIEM Lab</a>
 - **Description:** Captured and analyzed network traffic to detect suspicious activity using Wireshark.
 - **Skills:** Packet inspection, protocol analysis, DNS tunneling detection
 - **Tools:** Wireshark, TCPDump
