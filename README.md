@@ -6,7 +6,7 @@ Welcome to my cybersecurity portfolio! This repository showcases a selection of 
 
 ## Projects
 
-### 1. Network Traffic Analysis with Wireshark
+### 1. Active Directory and SIEM Lab
 - **Description:** Captured and analyzed network traffic to detect suspicious activity using Wireshark.
 - **Skills:** Packet inspection, protocol analysis, DNS tunneling detection
 - **Tools:** Wireshark, TCPDump
