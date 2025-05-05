@@ -15,11 +15,10 @@ Welcome to my cybersecurity portfolio! This repository showcases a selection of 
 
 ---
 
-## 🧠 Skills & Tools
+## Skills & Tools
 
-- **Programming:** Python, Bash, PowerShell
-- **Tools:** Wireshark, Nmap, Metasploit, Burp Suite, Splunk, Kali Linux
 - **Areas:** Threat Detection, Incident Response, Penetration Testing, Digital Forensics
+- **Tools:** Wireshark, Nmap, Metasploit, Burp Suite, Splunk, Kali Linux
 
 ---
 
