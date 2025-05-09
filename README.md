@@ -12,9 +12,9 @@ Welcome to my cybersecurity portfolio. This repository showcases a selection of 
 - **Tools:** Splunk, Hydra, Atomic Red Team
 
 ### <a href="https://github.com/jasonhuerta02/SOC-Home-Lab">SOC Home Lab</a>
-- **Description:** Configured Active Directory to manage user accounts, used Kali Linux for conducting brute-force attacks, integrated Splunk for centralized log ingestion and threat detection, and employed Atomic Red Team to emulate threats.
-- **Skills:** Log analysis, threat detection, SIEM, Active Directory
-- **Tools:** Splunk, Hydra, Atomic Red Team
+- **Description:** 
+- **Skills:** 
+- **Tools:** LimaCharlie, Sliver, Ubuntu, PowerShell
 
 ---
 
