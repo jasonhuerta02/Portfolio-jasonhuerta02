@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! This repository showcases a selection of hands-on projects that demonstrate my skills in areas such as...
+Welcome to my cybersecurity portfolio. This repository showcases a selection of hands-on projects that demonstrate my skills in areas such as network security, vulnerability managemenet, incident response, digital forensics, and more.
 
 ---
 
@@ -17,8 +17,8 @@ Welcome to my cybersecurity portfolio! This repository showcases a selection of 
 
 ## Skills & Tools
 
-- **Areas:** Threat Detection, Incident Response, Penetration Testing, Digital Forensics
-- **Tools:** Wireshark, Nmap, Metasploit, Burp Suite, Splunk, Kali Linux
+- **Areas:** Threat Detection, Incident Response, Network Security, Digital Forensics
+- **Tools:** Wireshark, Nmap, Metasploit, Volatility, Splunk
 
 ---
 
