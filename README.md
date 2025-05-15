@@ -20,8 +20,8 @@ Welcome to my cybersecurity portfolio. This repository showcases a selection of 
 
 ## Skills & Tools
 
-- **Areas:** Threat Detection, Incident Response, Network Security, Digital Forensics
-- **Tools:** Wireshark, Nmap, Metasploit, Volatility, Splunk
+- **Areas:** Intrusion Detection & Incident Response, Network Security, Digital Forensics, Security Operations
+- **Tools:** Wireshark, Nmap, Volatility, Splunk, LimaCharlie, Autopsy
 
 ---
 
