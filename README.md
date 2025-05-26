@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio. This repository showcases a selection of hands-on projects that demonstrate my skills in areas such as network security, vulnerability managemenet, incident response, digital forensics, and more.
+Welcome to my cybersecurity portfolio. This repository showcases a selection of hands-on projects that demonstrate my skills in areas such as network security, incident response, log analysis, and more.
 
 ---
 
