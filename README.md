@@ -16,7 +16,7 @@ Welcome to my cybersecurity portfolio. This repository showcases a selection of 
 - **Skills:** Red Team Operations, SOC Operations, EDR
 - **Tools:** LimaCharlie, Sliver, Ubuntu, PowerShell
 
-### <a href="https://github.com/jasonhuerta02/pfSense-Lab)">pfSense Lab</a>
+### <a href="https://github.com/jasonhuerta02/pfSense-Lab">pfSense Lab</a>
 - **Description:** Configured a pfSense Firewall on LAN & WAN that blocked DoS attack and used Wireshark to discover SYN flood attack
 - **Skills:** Red Team Operations, Firewall, Networking, Packet Analysis
 - **Tools:** pfSense, Kali Linux, hping3, Red Team Operations, Wireshark
