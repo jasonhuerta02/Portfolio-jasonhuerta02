@@ -11,12 +11,12 @@ Welcome to my cybersecurity portfolio. This repository showcases a selection of 
 - **Skills:** Log Analysis, Threat Detection, SIEM, Active Directory
 - **Tools:** Splunk, Kali Linux, Hydra, Atomic Red Team
 
-### <a href="https://github.com/jasonhuerta02/SOC-Home-Lab">LimaCharlie Lab</a>
+### <a href="https://github.com/jasonhuerta02/LimaCharlie-Lab">LimaCharlie Lab</a>
 - **Description:** Deployed Sysmon to generate telemetry, used the Sliver C2 framework to mimic adversary behavior, and created custom rules with LimaCharlie to detect and respond to threats
 - **Skills:** Red Team Operations, SOC Operations, EDR
 - **Tools:** LimaCharlie, Sliver, Ubuntu, PowerShell
 
-### <a href="https://github.com/jasonhuerta02/SOC-Home-Lab">pfSense Lab</a>
+### <a href="https://github.com/jasonhuerta02/pfSense-Lab)">pfSense Lab</a>
 - **Description:** Deployed Sysmon to generate telemetry, used the Sliver C2 framework to mimic adversary behavior, and created custom rules with LimaCharlie to detect and respond to threats
 - **Skills:** Red Team Operations, SOC Operations, EDR
 - **Tools:** LimaCharlie, Sliver, Ubuntu, PowerShell
