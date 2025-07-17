@@ -17,9 +17,9 @@ Welcome to my cybersecurity portfolio. This repository showcases a selection of 
 - **Tools:** LimaCharlie, Sliver, Ubuntu, PowerShell
 
 ### <a href="https://github.com/jasonhuerta02/pfSense-Lab)">pfSense Lab</a>
-- **Description:** Deployed Sysmon to generate telemetry, used the Sliver C2 framework to mimic adversary behavior, and created custom rules with LimaCharlie to detect and respond to threats
-- **Skills:** Red Team Operations, SOC Operations, EDR
-- **Tools:** LimaCharlie, Sliver, Ubuntu, PowerShell
+- **Description:** Configured a pfSense Firewall on LAN & WAN that blocked DoS attack and used Wireshark to discover SYN flood attack
+- **Skills:** Red Team Operations, Firewall, Networking, Packet Analysis
+- **Tools:** pfSense, Kali Linux, hping3, Red Team Operations, Wireshark
 ---
 
 ## Contact
