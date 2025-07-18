@@ -17,7 +17,7 @@ Welcome to my cybersecurity portfolio. This repository showcases a selection of 
 - **Tools:** LimaCharlie, Sliver, Ubuntu, PowerShell
 
 ### <a href="https://github.com/jasonhuerta02/pfSense-Lab">pfSense Lab</a>
-- **Description:** Configured a pfSense Firewall on LAN & WAN that blocked DoS attack and used Wireshark to discover SYN flood attack
+- **Description:** Configured a simulated enterprise network, created a firewall that detected and blocked DoS attack, and used Wireshark to peform packet analysis
 - **Skills:** Red Team Operations, Firewall, Networking, Packet Analysis
 - **Tools:** pfSense, Kali Linux, hping3, Red Team Operations, Wireshark
 ---
