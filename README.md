@@ -26,4 +26,3 @@ Welcome to my cybersecurity portfolio. This repository showcases a selection of 
 
 - **LinkedIn:** https://www.linkedin.com/in/jason-huerta-0586b82b0/
 - **Email:** jasonhuerta.02@gmail.com
-- **GitHub:** https://github.com/jasonhuerta02
